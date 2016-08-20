@@ -9,6 +9,10 @@ Please, if you use this code, or part of it, remember to attribute the credit to
 This is just an example and with edutational purposes. I will update the logic as soon as I get a better way to solve some issues.
 I am not native english speaker, so this code may have spelling errors.
 
+## Example
+
+https://danilor.github.io/JS-Random-Map-Generator/
+
 ## Use
 The idea is just to load the index.html file in a browser that can run javascript (the faster, the better) [I recommend Chrome for this kind of testing].
 
